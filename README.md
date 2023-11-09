@@ -1,2 +1,2 @@
-# segundo-repositorio
-Segundo repositorio que he creado
+# primer-repositorio
+Primer repositorio que he creado
